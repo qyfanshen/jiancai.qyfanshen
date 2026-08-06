@@ -2,6 +2,8 @@
 
 > 建材云系统 · 一站式建材数字化管理
 
+> 🚀 **[在线演示](https://jiancai.qyfanshen.com)** · 📚 **[文档](docs/)** · 📋 **[快速开始](docs/QUICKSTART.md)** · 🐛 **[反馈问题](https://github.com/qyfanshen/jiancai.qyfanshen/issues)** · ⭐ **[Star](https://github.com/qyfanshen/jiancai.qyfanshen)**
+
 ![预览](screenshots/preview.png)
 <p align="center">
   <a href="https://github.com/qyfanshen/jiancai.qyfanshen"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="许可证"></a>
