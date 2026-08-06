@@ -13,6 +13,8 @@
 
 ---
 
+**JianCai Cloud** connects building-material suppliers and buyers through a chamber-based platform — supply & demand matching, member showcase and role-based consoles.
+
 [English](README.md) | [中文](README.zh.md)
 
 ## Key Scenarios
@@ -39,15 +41,19 @@
 
 ## Screenshots
 
-Real screenshots captured via local server + headless Edge:
+Real screenshots captured after signing in:
 
-### Home page preview
+### Home page
 
-![Home page preview](screenshots/preview.png)
+![Home page](screenshots/preview.png)
 
-### Services flow (extended viewport)
+### Admin console (after sign-in)
 
-![Services flow (extended viewport)](screenshots/flow-services.png)
+![Admin console](screenshots/admin-console.png)
+
+### Employee console (after sign-in)
+
+![Employee console](screenshots/work-console.png)
 
 ---
 

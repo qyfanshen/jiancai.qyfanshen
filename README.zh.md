@@ -13,6 +13,8 @@
 
 ---
 
+**建材云系统** 以商会为载体连接建材供需双方——供需对接、会员展示与分角色的管理/员工端一应俱全。
+
 [English](README.md) | [中文](README.zh.md)
 
 ## 核心使用场景
@@ -39,15 +41,19 @@
 
 ## 截图预览
 
-通过本地服务 + 无头浏览器渲染的真实截图：
+实地登录后台的真实截图：
 
-### 首页预览
+### 首页
 
-![首页预览](screenshots/preview.png)
+![首页](screenshots/preview.png)
 
-### 服务体系流程（大视口）
+### 管理端（登录后）
 
-![服务体系流程（大视口）](screenshots/flow-services.png)
+![管理端](screenshots/admin-console.png)
+
+### 员工端（登录后）
+
+![员工端](screenshots/work-console.png)
 
 ---
 
